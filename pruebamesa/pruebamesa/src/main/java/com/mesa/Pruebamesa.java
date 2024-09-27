@@ -17,6 +17,6 @@ public class Pruebamesa {
         System.out.println("hola2");
          System.out.println("hola3");
          System.out.println("Soy cristhian");
-          System.out.println("Soy Bruce");
+          System.out.println("Soy Bruce ");
     }
 }
